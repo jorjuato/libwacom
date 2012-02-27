@@ -1,0 +1,20 @@
+//////////////////////////////////////////////////////////////////
+//  sdl_ior.c
+//
+//
+// Copyleft (L)		Febrero 2008		Jorge Ibáñez
+//
+//////////////////////////////////////////////////////////////////
+
+
+
+
+void ShowInitPoint(void); 
+
+void ShowTargets();
+
+void ShowBackground(Uint32 color);
+
+void UpdateScreen();
+
+void ShowMessage();

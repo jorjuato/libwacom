@@ -1,0 +1,8 @@
+X- coordenadas de cuadrados: en el centro.
+X- hacer variable para tamaño: coger valores del input.
+X- Alinear con línea media.
+- Area influencia starting point.
+X- Comprobar error paso targets. (error no recuperable)
+X- No recuperable : rojo
+X- Recuperable: verde.
+- Comprobar coordenas en los condicionales
